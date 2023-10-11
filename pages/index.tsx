@@ -34,9 +34,10 @@ export default function Home() {
     <Platforms/>
     <FAQ/>
     <Aliados/>
+    <Analytics/>
     <Integrate/>
     <Footer/>
-    <Analytics />
+
 
 </>
   )
